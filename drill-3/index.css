@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.mainflex {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.layer1 {
+    position: relative;
+    background-color: rgb(209, 209, 209);
+    height: 20vh;
+    width: 100vw;
+}
+
+.layer2 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    height: 40vh;
+    width: 100vw;
+}
+
+h1 {
+}
+
+.layer3 {
+    position: relative;
+    background-color: lightblue;
+    height: 30vh;
+    width: 100vw;
+}
+
+.layer4 {
+    position: relative;
+    background-color: teal;
+    height: 30vh;
+    width: 100vw;
+}
+
+.layer5 {
+    position: relative;
+    background-color: lightgreen;
+    height: 30vh;
+    width: 100vw;
+}
+
+.layer6 {
+    position: relative;
+    background-color: yellow;
+    height: 30vh;
+    width: 100vw;
+}

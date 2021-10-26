@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    height: 15vh;
+    width: 100%;
+    background-color: darkgray
+}
+
+.left-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+#left {
+    background-color: lightgray;
+    box-sizing: border-box;
+    width: 150px;
+}
+
+#right {
+    background-color: lightgray;
+    box-sizing: border-box;
+    width: 150px;
+    height: 700px;
+}
+
+.bott {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 15vh;
+}
+
+#leftbot {
+    background-color: lightgray;
+    width: 150px;
+}
+
+#rightbot {
+    background-color: lightgray;
+    width: 150px;
+}
